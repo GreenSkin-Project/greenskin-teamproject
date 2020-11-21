@@ -72,6 +72,7 @@
 					</ul>
 				</div>
 			</nav>
+		</div>
 			
 		<div class="col-md-12">
 			<div class="carousel slide" id="carousel-140662">
