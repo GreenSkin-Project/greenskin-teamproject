@@ -19,7 +19,7 @@
 	</bean>
 	
 	<!-- 리소스 매핑 -->
-	<!-- <mvc:resources location="/resources/css/" mapping="/css/**"/> -->
+	<mvc:resources location="/resources/**" mapping="/resources/images/**"/>
 	
 </beans>
 

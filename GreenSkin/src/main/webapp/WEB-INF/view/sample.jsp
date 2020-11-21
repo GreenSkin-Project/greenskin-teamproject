@@ -73,9 +73,6 @@
 				</div>
 			</nav>
 			
-			<div>
-				<img class="d-block w-100" alt="메인홈페이지 이미지 3" src="/resources/images/kdh/main3.png"/>
-			</div>
 			<!-- 이미지 슬라이딩 배너3 -->
 			<div class="carousel slide" id="carousel-895003">
 				<ol class="carousel-indicators">
@@ -88,17 +85,16 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item">
-						<img class="d-block w-100" alt="메인홈페이지 이미지 1" src="/resources/images/kdh/main1.png"/>
+						<img class="d-block w-100" alt="메인홈페이지 이미지 1" src="/resources/images/spongebob.png"/>
 						<div class="carousel-caption">
-						</div>
 					</div>
 					<div class="carousel-item active">
-						<img class="d-block w-100" alt="메인홈페이지 이미지 2" src="/resources/images/kdh/main2.png"/>
+						<img class="d-block w-100" alt="메인홈페이지 이미지 2" src="/resources/images/spongebob.png"/>
 						<div class="carousel-caption">
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" alt="메인홈페이지 이미지 3" src="/resources/images/kdh/main3.png"/>
+						<img class="d-block w-100" alt="메인홈페이지 이미지 3" src="/resources/images/spongebob.png"/>
 						<div class="carousel-caption">
 						</div>
 					</div>
@@ -111,6 +107,7 @@
 					<span class="carousel-control-next-icon"></span>
 					<span class="sr-only">Next</span>
 				</a>
+				</div>
 			</div>
 		</div>
 	</div>
