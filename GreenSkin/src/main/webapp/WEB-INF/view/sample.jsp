@@ -6,13 +6,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
-<!-- sample.css 파일 사용을 위한 태그 -->
-<link rel="stylesheet" type="text/css" href="resources/css/sample.css"/>
-<!-- Jquey를 사용을 위한 태그 -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<!-- smaple.js를 사용하기 위한 태그 -->
-<script src="resources/js/sample.js"></script>
+<title>그린푸드 공식 웹사이트 - 먹지마세요. 피부에 투자하세요.</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
 <div>해당화면은 샘플페이지입니다.</div>
