@@ -73,41 +73,51 @@
 				</div>
 			</nav>
 			
-			<!-- 이미지 슬라이딩 배너3 -->
-			<div class="carousel slide" id="carousel-895003">
+		<div class="col-md-12">
+			<div class="carousel slide" id="carousel-140662">
 				<ol class="carousel-indicators">
-					<li data-slide-to="0" data-target="#carousel-895003">
+					<li data-slide-to="0" data-target="#carousel-140662" class="active">
 					</li>
-					<li data-slide-to="1" data-target="#carousel-895003" class="active">
+					<li data-slide-to="1" data-target="#carousel-140662">
 					</li>
-					<li data-slide-to="2" data-target="#carousel-895003">
+					<li data-slide-to="2" data-target="#carousel-140662">
 					</li>
 				</ol>
 				<div class="carousel-inner">
-					<div class="carousel-item">
-						<img class="d-block w-100" alt="메인홈페이지 이미지 1" src="/resources/images/spongebob.png"/>
-						<div class="carousel-caption">
-					</div>
 					<div class="carousel-item active">
-						<img class="d-block w-100" alt="메인홈페이지 이미지 2" src="/resources/images/spongebob.png"/>
+						<img class="d-block w-100" alt="Carousel Bootstrap First" src="resources/images/kdh/main1.png" />
 						<div class="carousel-caption">
+							<h4>
+								First Thumbnail label
+							</h4>
+							<p>
+								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+							</p>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" alt="메인홈페이지 이미지 3" src="/resources/images/spongebob.png"/>
+						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="resources/images/kdh/main2.png" />
 						<div class="carousel-caption">
+							<h4>
+								Second Thumbnail label
+							</h4>
+							<p>
+								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+							</p>
 						</div>
 					</div>
-				</div>
-				<a class="carousel-control-prev" href="#carousel-895003" data-slide="prev">
-					<span class="carousel-control-prev-icon"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="carousel-control-next" href="#carousel-895003" data-slide="next">
-					<span class="carousel-control-next-icon"></span>
-					<span class="sr-only">Next</span>
-				</a>
-				</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" alt="Carousel Bootstrap Third" src="resources/images/kdh/main3.png" />
+						<div class="carousel-caption">
+							<h4>
+								Third Thumbnail label
+							</h4>
+							<p>
+								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+							</p>
+						</div>
+					</div>
+				</div> <a class="carousel-control-prev" href="#carousel-140662" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carousel-140662" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
 			</div>
 		</div>
 	</div>
